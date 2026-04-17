@@ -1,7 +1,7 @@
 -- 获取玩家和 UI 元素
 local player = game.Players.LocalPlayer
 local hadCoinsDisplay = script.Parent:WaitForChild("DisplayhadCoin")
-local maxCoinsDisplay = script.Parent:WaitForChild("DisplayhadCoin")
+local maxCoinsDisplay = script.Parent:WaitForChild("DisplaymaxCoin")
 local currentCoinsDisplay = script.Parent:WaitForChild("DisplaycurrentCoins")
 local CollectionService = game:GetService("CollectionService")
 -- 更新显示的函数
