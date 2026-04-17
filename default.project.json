@@ -4,23 +4,36 @@
     "$className": "DataModel",
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
+<<<<<<< HEAD
       "$ignoreUnknownInstances": false,
+=======
+      "$ignoreUnknownInstances": true,
+>>>>>>> temp-save
       "$path": "src/ReplicatedStorage"
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
+<<<<<<< HEAD
       "$ignoreUnknownInstances": false,
+=======
+      "$ignoreUnknownInstances": true,
+>>>>>>> temp-save
       "$path": "src/ServerScriptService"
     },
     "StarterGui": {
       "$className": "StarterGui",
+<<<<<<< HEAD
       "$ignoreUnknownInstances": false,
+=======
+      "$ignoreUnknownInstances": true,
+>>>>>>> temp-save
       "$path": "src/StarterGui"
     },
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
+<<<<<<< HEAD
         "$ignoreUnknownInstances": false,
         "$path": "src/StarterPlayer/StarterPlayerScripts"
       },
@@ -29,6 +42,16 @@
     "Workspace": {
       "$className": "Workspace",
       "$ignoreUnknownInstances": false,
+=======
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+>>>>>>> temp-save
       "$path": "src/Workspace"
     }
   }
